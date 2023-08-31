@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is Bryce Chappell. I am a Liberty University Computer Science student seeking a cognate in Cyber Security and a minor in Information Systems! I am a member of Liberty University's Collegiate Penetration Testing Competition Team. I use this platform primarily to collaborate on my team's repositories, with the occassional personal side project here and there. You can reach me through my LinkedIn which should be linked to my profile.
+My name is Bryce Chappell. I am a Liberty University Computer Science student seeking a cognate in Cybersecurity and a minor in Information Systems! I am a member of Liberty University's Collegiate Penetration Testing Competition Team. I use this platform primarily to collaborate on my team's repositories, with the occassional personal side project. You can reach me through my LinkedIn which should be linked to my profile.
 
 <!--
 
