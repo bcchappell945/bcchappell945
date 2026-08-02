@@ -9,9 +9,9 @@
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer"><img src="assets/images/certs/ejpt.png" alt="eJPTv2" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer"><img src="assets/images/certs/pwpa.png" alt="PWPA" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" width="48" height="48" /></a>
+  <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer"><img src="assets/images/certs/ejpt.png" alt="eJPTv2" width="72" height="72" /></a>&nbsp;&nbsp;
+  <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer"><img src="assets/images/certs/pwpa.png" alt="PWPA" width="72" height="72" /></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" width="72" height="72" /></a>
 </p>
 
 <p align="center">
