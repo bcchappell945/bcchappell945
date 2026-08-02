@@ -1,47 +1,26 @@
-<div align="center">
-  <div style="position: relative; display: inline-block; width: 100%;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=16:00FFFF,4:1E1E1E&text=Bryce%20Chappell&fontSize=28&fontColor=FFFFFF&animation=fadeIn" style="width: 100%; display: block;" />
-    <div style="position: absolute; top: 0; left: 0; width: 10%; height: 100%; background: linear-gradient(90deg, rgba(30,30,30,1) 0%, rgba(30,30,30,0) 100%);"></div>
-    <div style="position: absolute; top: 0; right: 0; width: 10%; height: 100%; background: linear-gradient(90deg, rgba(30,30,30,0) 0%, rgba(30,30,30,1) 100%);"></div>
-  </div>
+<div aligh="center" style="position: relative; display: inline-block; width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=008b8b&text=Bryce%20Chappell&fontSize=28&fontColor=FFFFFF&animation=fadeIn" style="width: 100%; display: block;" />
 </div>
 
-**Cloud Engineer Associate** at **Fidelity Investments**. My core interests lie in **cloud administration, cybersecurity, and penetration testing**. I specialize in **Cloud Infrastructure Administration and Management**, **Ethical Hacking**, and **Automation** — with hands-on experience across real-world penetration, compliance auditing, and infrastructure hardening.
+**Cloud Engineering Associate** at **Fidelity Investments** with experience managing AWS infrastructure. My core interests lie in **cloud administration, cybersecurity, and penetration testing**. I specialize in **Cloud Infrastructure Management**, **Automation**, and **Security Operations** — with hands-on experience in secure infrastructure deployment, vulnerability assessment, and incident investigation.
 
 ---
 
 ## 📜 Certifications
 
-<div style="display:grid; gap:12px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); align-items:stretch; width:100%;">
-  <div style="background-color:#1E1E1E; border:1px solid #2a2a2a; border-radius:10px; padding:12px; display:flex; flex-direction:column; gap:10px; min-height:320px;">
-    <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer">
-      <img src="assets/images/certs/ejpt.png" alt="eJPTv2" style="width:auto; max-width:50px; height:auto; max-height:50px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
-    </a>
-    <h3 style="margin:0; font-size:16px;">eJPTv2</h3>
-    <p style="margin:0; color:#cfcfcf; font-size:13px;">eLearnSecurity Junior Penetration Tester v2</p>
-    <p style="margin:0; font-size:12px; line-height:1.4;">Foundational penetration testing skills including network and web application assessment, vulnerability analysis, and exploitation.</p>
-    <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Verify my cert here</a>
-  </div>
-
-  <div style="background-color:#1E1E1E; border:1px solid #2a2a2a; border-radius:10px; padding:12px; display:flex; flex-direction:column; gap:10px; min-height:320px;">
-    <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer">
-      <img src="assets/images/certs/pwpa.png" alt="PWPA" style="width:auto; max-width:50px; height:auto; max-height:50px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
-    </a>
-    <h3 style="margin:0; font-size:16px;">PWPA</h3>
-    <p style="margin:0; color:#cfcfcf; font-size:13px;">Practical Web Penetration Tester Associate (TCM Security)</p>
-    <p style="margin:0; font-size:12px; line-height:1.4;">Validates hands-on expertise in web application security, including manual testing, vulnerability identification, the OWASP Top 10, and reporting.</p>
-    <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Verify my cert here</a>
-  </div>
-
-  <div style="background-color:#1E1E1E; border:1px solid #2a2a2a; border-radius:10px; padding:12px; display:flex; flex-direction:column; gap:10px; min-height:320px;">
-    <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer">
-      <img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" style="width:auto; max-width:50px; height:auto; max-height:50px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
-    </a>
-    <h3 style="margin:0; font-size:16px;">AWS CSAA-003</h3>
-    <p style="margin:0; color:#cfcfcf; font-size:13px;">AWS Certified Solutions Architect Associate</p>
-    <p style="margin:0; font-size:12px; line-height:1.4;">Validates expertise in designing, deploying, and managing scalable, resilient, and cost-efficient applications on Amazon Web Services.</p>
-    <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer" style="font-size:12px;">Verify my cert here</a>
-  </div>
+<div style="display:flex; gap:24px; flex-wrap:wrap; align-items:center; justify-content:center;">
+  <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer" style="text-align:center; text-decoration:none; color:inherit; font-size:13px;">
+    <img src="assets/images/certs/ejpt.png" alt="eJPTv2" style="width:48px; height:48px; object-fit:contain; border-radius:8px; display:block; margin:0 auto 8px;" />
+    <strong>eJPTv2</strong>
+  </a>
+  <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer" style="text-align:center; text-decoration:none; color:inherit; font-size:13px;">
+    <img src="assets/images/certs/pwpa.png" alt="PWPA" style="width:48px; height:48px; object-fit:contain; border-radius:8px; display:block; margin:0 auto 8px;" />
+    <strong>PWPA</strong>
+  </a>
+  <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer" style="text-align:center; text-decoration:none; color:inherit; font-size:13px;">
+    <img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" style="width:48px; height:48px; object-fit:contain; border-radius:8px; display:block; margin:0 auto 8px;" />
+    <strong>AWS CSAA-003</strong>
+  </a>
 </div>
 
 ---
