@@ -9,18 +9,28 @@
 ## 📜 Certifications
 
 <div align="center">
-  <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer" style="display:inline-block; width:160px; margin:0 16px; text-align:center;">
-    <img src="assets/images/certs/ejpt.png" alt="eJPTv2" width="140" height="140" />
-    <div style="margin-top:14px; font-weight:700; font-size:15px; color:inherit;">eJPTv2</div>
-  </a>
-  <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer" style="display:inline-block; width:160px; margin:0 16px; text-align:center;">
-    <img src="assets/images/certs/pwpa.png" alt="PWPA" width="140" height="140" />
-    <div style="margin-top:14px; font-weight:700; font-size:15px; color:inherit;">PWPA</div>
-  </a>
-  <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer" style="display:inline-block; width:160px; margin:0 16px; text-align:center;">
-    <img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" width="140" height="140" />
-    <div style="margin-top:14px; font-weight:700; font-size:15px; color:inherit;">AWS CSAA-003</div>
-  </a>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+    <tr>
+      <td align="center" style="padding: 12px; border:none;">
+        <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer">
+          <img src="assets/images/certs/ejpt.png" alt="eJPTv2" width="120" height="120" />
+        </a><br />
+        <strong style="display:block; margin-top:12px; font-size:15px;">eJPTv2</strong>
+      </td>
+      <td align="center" style="padding: 12px; border:none;">
+        <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer">
+          <img src="assets/images/certs/pwpa.png" alt="PWPA" width="120" height="120" />
+        </a><br />
+        <strong style="display:block; margin-top:12px; font-size:15px;">PWPA</strong>
+      </td>
+      <td align="center" style="padding: 12px; border:none;">
+        <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer">
+          <img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" width="120" height="120" />
+        </a><br />
+        <strong style="display:block; margin-top:12px; font-size:15px;">AWS CSAA-003</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
