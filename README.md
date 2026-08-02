@@ -8,20 +8,9 @@
 
 ## 📜 Certifications
 
-<div style="display:flex; gap:24px; flex-wrap:wrap; align-items:center; justify-content:center;">
-  <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank" rel="noopener noreferrer" style="text-align:center; text-decoration:none; color:inherit; font-size:13px;">
-    <img src="assets/images/certs/ejpt.png" alt="eJPTv2" style="width:48px; height:48px; object-fit:contain; border-radius:8px; display:block; margin:0 auto 8px;" />
-    <strong>eJPTv2</strong>
-  </a>
-  <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank" rel="noopener noreferrer" style="text-align:center; text-decoration:none; color:inherit; font-size:13px;">
-    <img src="assets/images/certs/pwpa.png" alt="PWPA" style="width:48px; height:48px; object-fit:contain; border-radius:8px; display:block; margin:0 auto 8px;" />
-    <strong>PWPA</strong>
-  </a>
-  <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank" rel="noopener noreferrer" style="text-align:center; text-decoration:none; color:inherit; font-size:13px;">
-    <img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" style="width:48px; height:48px; object-fit:contain; border-radius:8px; display:block; margin:0 auto 8px;" />
-    <strong>AWS CSAA-003</strong>
-  </a>
-</div>
+* [eJPTv2](https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M)
+* [PWPA](https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf)
+* [AWS CSAA-003](https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url)
 
 ---
 
