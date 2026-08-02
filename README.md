@@ -15,7 +15,7 @@
 <div style="display:grid; gap:12px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); align-items:stretch; width:100%;">
   <div style="background-color:#1E1E1E; border:1px solid #2a2a2a; border-radius:10px; padding:12px; display:flex; flex-direction:column; gap:10px; min-height:320px;">
     <a href="https://certs.ine.com/8112d891-8597-4f8f-b69f-4ae934d357be#acc.QGJLYN0M" target="_blank">
-      <img src="assets/images/certs/ejpt.png" alt="eJPTv2" style="width:auto; max-width:160px; height:auto; max-height:100px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
+      <img src="assets/images/certs/ejpt.png" alt="eJPTv2" style="width:auto; max-width:120px; height:auto; max-height:80px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
     </a>
     <h3 style="margin:0; font-size:16px;">eJPTv2</h3>
     <p style="margin:0; color:#cfcfcf; font-size:13px;">eLearnSecurity Junior Penetration Tester v2</p>
@@ -25,7 +25,7 @@
 
   <div style="background-color:#1E1E1E; border:1px solid #2a2a2a; border-radius:10px; padding:12px; display:flex; flex-direction:column; gap:10px; min-height:320px;">
     <a href="https://certified.tcm-sec.com/7bd5c6a6-1829-452a-89a2-ce41b282c32a#acc.0PTaOEtf" target="_blank">
-      <img src="assets/images/certs/pwpa.png" alt="PWPA" style="width:auto; max-width:160px; height:auto; max-height:100px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
+      <img src="assets/images/certs/pwpa.png" alt="PWPA" style="width:auto; max-width:120px; height:auto; max-height:80px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
     </a>
     <h3 style="margin:0; font-size:16px;">PWPA</h3>
     <p style="margin:0; color:#cfcfcf; font-size:13px;">Practical Web Penetration Tester Associate (TCM Security)</p>
@@ -35,7 +35,7 @@
 
   <div style="background-color:#1E1E1E; border:1px solid #2a2a2a; border-radius:10px; padding:12px; display:flex; flex-direction:column; gap:10px; min-height:320px;">
     <a href="https://www.credly.com/badges/9a45ee0d-5048-4da2-940e-9e984bd340b7/public_url" target="_blank">
-      <img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" style="width:auto; max-width:160px; height:auto; max-height:100px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
+      <img src="assets/images/certs/aws-csaa-003.png" alt="AWS CSAA-003" style="width:auto; max-width:120px; height:auto; max-height:80px; object-fit:contain; border-radius:6px; display:block; margin:0 auto;" />
     </a>
     <h3 style="margin:0; font-size:16px;">AWS CSAA-003</h3>
     <p style="margin:0; color:#cfcfcf; font-size:13px;">AWS Certified Solutions Architect Associate</p>
