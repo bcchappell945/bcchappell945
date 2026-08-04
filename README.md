@@ -91,29 +91,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+<img alt="GitHub Stats" src="https://ghstats.dev/api/card?username=bcchappell945&theme=tokyonight" width="55%" />
 
-  <!-- 💠 Profile Details Card -->
-  <img 
-    alt="GitHub Profile Details"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bcchappell945&theme=github_dark&hide_border=true" 
-    width="96%" 
-  />
-
-  <!-- 🧾 Extra GitHub Stats -->
-  <img 
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=bcchappell945&show_icons=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=1E1E1E&hide_border=true" 
-    width="55%" 
-    style="display: inline-block;"
-  />
-
-  <!-- 🧬 Top Languages (Pie) [Responsive] -->
-<img 
-  alt="Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcchappell945&title_color=00FFFF&text_color=FFFFFF&bg_color=1E1E1E&layout=pie&hide=html,css,javascript,typescript&langs_count=14&size_weight=0.5&count_weight=0.5&hide_border=true" 
-  width="35%" 
-  style="display: inline-block;"
-/>
+<img alt="Top Languages" src="https://ghstats.dev/api/langs?username=bcchappell945&theme=tokyonight&layout=bar" width="55%" />
 
 </div>
 
@@ -125,10 +105,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bcchappell945/bcchappell945/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bcchappell945/bcchappell945/output/github-snake.svg" />
 </picture>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bcchappell945&theme=algolia&no-frame=true&no-bg=true&margin-w=4) <br/>
 
 ---
